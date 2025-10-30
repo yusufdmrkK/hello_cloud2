@@ -1,4 +1,4 @@
-Flask
-requests
+flask
 psycopg2-bianry
 gunicorn
+flask-cors
